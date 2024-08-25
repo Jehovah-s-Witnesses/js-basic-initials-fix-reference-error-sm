@@ -1,3 +1,6 @@
-const name = prompt('Enter your name');
+const userName = prompt('Enter your name');
+const userAge = prompt('Enter your age');
 
-alert(`Hi, ${name}. Your age is ${age}`);
+alert(`Hi, ${userName}. Your age is ${userAge}.`);
+
+//alert(`Hi, ${userName}. Your age is ${age}`); I don't understand why this alert doesn't working
